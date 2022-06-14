@@ -1,4 +1,5 @@
 # 2D-Runner-Game
 An infinite 2D Runner game made using Unity 
 
-![image](https://user-images.githubusercontent.com/67544316/173553338-e91840d9-ffcf-4734-9b0c-0e5de3c67a8c.png)
+![image](https://user-images.githubusercontent.com/67544316/173554360-19202fa8-40a9-4be7-b9f8-b712c79f3ca5.png)
+
